@@ -1,0 +1,4 @@
+https://idp.sqldbm.com/sign-in/external/private
+
+
+https://github.com/enterprises/20med/sso
